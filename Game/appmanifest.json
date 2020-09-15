@@ -1,7 +1,7 @@
 {
-	"name": "Game",
-	"short_name": "Game",
-	"description": "",
+	"name": "Survive the Aliens",
+	"short_name": "Survive the Aliens",
+	"description": "A game in which you have to shoot aliens and survive.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
